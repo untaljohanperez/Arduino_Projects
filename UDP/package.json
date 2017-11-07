@@ -1,0 +1,15 @@
+{
+  "name": "udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "udp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UnTalJohanPerez",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.2.1",
+    "azure-iot-device-mqtt": "^1.2.2"
+  }
+}
